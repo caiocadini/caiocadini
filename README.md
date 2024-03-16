@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello I'm Caio Cadini
+
+-:computer: Computer Science Alumni at UFSCar
+-:satisfied: Interested in Full Stack Web Development
+-:books: Currently studying more about Backend Development
+
+### Technologies
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
 <!--
 **caiocadini/caiocadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
