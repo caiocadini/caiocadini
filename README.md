@@ -1,8 +1,8 @@
 ### Hello I'm Caio Cadini
 
--:computer: Computer Science Alumni at UFSCar
--:satisfied: Interested in Full Stack Web Development
--:books: Currently studying more about Backend Development
+- :computer: Computer Science Alumni at UFSCar
+- :satisfied: Interested in Full Stack Web Development
+- :books: Currently studying more about Backend Development
 
 ### Technologies
 https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
