@@ -23,6 +23,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-# Stats
-[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiocadini)](https://github.com/anuraghazra/github-readme-stats)
+## 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=caiocadini&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiocadini&layout=compact&langs_count=8&card_width=320&theme=ambient_gradient" />
+</a>
